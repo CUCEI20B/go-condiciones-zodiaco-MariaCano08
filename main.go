@@ -12,86 +12,86 @@ func main() {
 	switch m {
 	case 1: //Enero
 		if d < 21 {
-			fmt.Println("Capricornio")
+			fmt.Println("capricornio")
 		} else {
-			fmt.Println("Acuario")
+			fmt.Println("acuario")
 		}
 		break
 	case 2: //Febrero
 		if d < 20 {
-			fmt.Println("Acuario")
+			fmt.Println("acuario")
 		} else {
-			fmt.Println("Piscis")
+			fmt.Println("piscis")
 		}
 		break
 	case 3: //Marzo
 		if d < 21 {
-			fmt.Println("Piscis")
+			fmt.Println("piscis")
 		} else {
-			fmt.Println("Aries")
+			fmt.Println("aries")
 		}
 		break
 	case 4: //Abril
 		if d < 21 {
-			fmt.Println("Aries")
+			fmt.Println("aries")
 		} else {
-			fmt.Println("Tauro")
+			fmt.Println("tauro")
 		}
 		break
 	case 5: //Mayo
 		if d < 22 {
-			fmt.Println("Tauro")
+			fmt.Println("tauro")
 		} else {
-			fmt.Println("Geminis")
+			fmt.Println("geminis")
 		}
 		break
 	case 6: //Junio
 		if d < 22 {
-			fmt.Println("Geminis")
+			fmt.Println("geminis")
 		} else {
-			fmt.Println("Cancer")
+			fmt.Println("cancer")
 		}
 		break
 	case 7: //Julio
 		if d < 24 {
-			fmt.Println("Cancer")
+			fmt.Println("cancer")
 		} else {
-			fmt.Println("Leo")
+			fmt.Println("leo")
 		}
 		break
 	case 8: //Agosto
 		if d < 24 {
-			fmt.Println("Leo")
+			fmt.Println("leo")
 		} else {
-			fmt.Println("Virgo")
+			fmt.Println("v")
 		}
 		break
 	case 9: //Septiembre
 		if d < 24 {
-			fmt.Println("Virgo")
+			fmt.Println("virgo")
 		} else {
-			fmt.Println("Libra")
+			fmt.Println("libra")
 		}
 		break
 	case 10: //Octubre
 		if d < 24 {
-			fmt.Println("Libra")
+			fmt.Println("libra")
 		} else {
-			fmt.Println("Escorpion")
+			fmt.Println("escorpion")
 		}
 		break
 	case 11: //Noviembre
 		if d < 23 {
-			fmt.Println("Escorpion")
+			fmt.Println("escorpion")
 		} else {
-			fmt.Println("Sagitario")
+			fmt.Println("sagitario")
 		}
 		break
 	case 12: //Diciembre
 		if d < 22 {
-			fmt.Println("Sagitario")
+			fmt.Println("sagitario")
 		} else {
-			fmt.Println("Capricornio")
+			fmt.Println("capricornio")
 		}
 		break
 
